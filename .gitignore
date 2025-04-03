@@ -13,3 +13,10 @@ __pycache__/
 *.nii
 *.nii.gz
 *.png
+
+# Ignore csv files
+*.csv
+*.xlsx
+
+#Ignore tfm
+*.tfm
