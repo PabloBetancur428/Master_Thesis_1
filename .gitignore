@@ -1,0 +1,15 @@
+# Ignore Virtual Environment Directories
+venv/
+env/
+.virtualenv/
+__pycache__/
+
+# Ignore Python compiled files (optional)
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Image Files
+*.nii
+*.nii.gz
+*.png
